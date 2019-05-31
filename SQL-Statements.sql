@@ -1,4 +1,4 @@
--- CREATE USER 'smartboss'@'smartbossdb.c09tob7ay9ht.us-east-1.rds.amazonaws.com' IDENTIFIED BY 'smartb0ss';
+
 
 /*
 CREATE TABLE users
